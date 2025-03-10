@@ -1,7 +1,11 @@
 # Fdb version 4
-["pdflatex"] 0 "d:/Resume/Latex-Resume/Latex-Resume/Vishwanth_Prakash.tex" "Vishwanth_Prakash.pdf" "Vishwanth_Prakash" 0 -1
-  "Vishwanth_Prakash.aux" 0 -1 0 "pdflatex"
-  "d:/Resume/Latex-Resume/Latex-Resume/Vishwanth_Prakash.tex" 0 -1 0 ""
+["pdflatex"] 1741078590.79125 "d:/Resume/Latex-Resume/Latex-Resume/Vishwanth_Prakash.tex" "Vishwanth_Prakash.pdf" "Vishwanth_Prakash" 1741078639.57862 2
+  "C:/Users/Vishwanth Prakash/AppData/Local/Programs/MiKTeX/tex/latex/base/article.cls" 1705273579 20144 147463a6a579f4597269ef9565205cfe ""
+  "C:/Users/Vishwanth Prakash/AppData/Local/Programs/MiKTeX/tex/latex/base/size10.clo" 1705273578 8448 dbc0dbf4156c0bb9ba01a1c685d3bad0 ""
+  "C:/Users/Vishwanth Prakash/AppData/Local/Programs/MiKTeX/tex/latex/geometry/geometry.sty" 1578053545 42759 9cf6c5257b1bc7af01a58859749dd37a ""
+  "Vishwanth_Prakash.aux" 1741078590 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "Vishwanth_Prakash.tex" 1741078596 16601 7cce2e2153f4eeeee11691bebe14f8cc ""
+  "d:/Resume/Latex-Resume/Latex-Resume/Vishwanth_Prakash.tex" 1741078596 16601 7cce2e2153f4eeeee11691bebe14f8cc ""
   (generated)
   "Vishwanth_Prakash.aux"
   "Vishwanth_Prakash.log"
